@@ -1,20 +1,22 @@
 {
   "perkuliahan": [
     {
-      "title": "Surat Edaran Perkuliahan Semester Ganjil 2025",
-      "file": "dokumen/surat_edaran.pdf"
+      "title": "Surat Edaran Perkuliahan Semester Ganjil",
+      "file": "dokumen_perkuliahan/surat_edaran.pdf"
     },
     {
       "title": "Panduan Pengisian KRS Online",
-      "file": "dokumen/panduan_krs.pdf"
-    },
-    {
-      "title": "Jadwal Ujian Tengah Semester",
-      "file": "dokumen/jadwal_uts.pdf"
+      "file": "dokumen_perkuliahan/panduan_krs.pdf"
     }
   ],
   "beasiswa": [
-    "Beasiswa Unggulan Kemendikbud 2025 - Batas 31 Oktober",
-    "Beasiswa LPDP Tahap 2 sudah dibuka!"
+    {
+      "title": "Beasiswa Unggulan Kemendikbud 2025",
+      "file": "pamflet_beasiswa/pamflet_unggulan.jpg"
+    },
+    {
+      "title": "Beasiswa LPDP Tahap 2",
+      "file": "pamflet_beasiswa/pamflet_lpdp.png"
+    }
   ]
 }
